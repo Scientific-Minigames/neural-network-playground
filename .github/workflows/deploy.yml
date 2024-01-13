@@ -3,7 +3,7 @@ name: Deploy React on Pages
 on:
   push:
     branches:
-      - "master" # change to the branch you wish to deploy from
+      - "main" # change to the branch you wish to deploy from
 
 permissions:
   contents: read
